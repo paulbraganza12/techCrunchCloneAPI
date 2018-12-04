@@ -13,6 +13,9 @@ Clone/Download the project and run "pip install -r requirements.txt"
 ```
 pip install -r requirements.txt
 ```
+```
+python app.py
+```
 
 ## Author
 
