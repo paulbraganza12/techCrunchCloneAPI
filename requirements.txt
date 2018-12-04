@@ -1,0 +1,6 @@
+Flask
+urllib3
+lxml
+bs4
+requests
+gunicorn
