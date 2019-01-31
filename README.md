@@ -19,7 +19,7 @@ python app.py
 
 ## Author
 
-* **Paul Braganza** - *Initial work* - [TechCrunchClone](https://github.com/paulbraganza12/techCrunchCloneAngularApp)
+* **Paul Braganza** - *Initial work* - [TechCrunchClone](https://github.com/paulbraganza12/TechCrunchCloneAngularApp)
 
 ## License
 
